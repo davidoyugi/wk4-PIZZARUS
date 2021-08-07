@@ -1,0 +1,28 @@
+#nav {
+    background-color: rgb(140, 233, 140)!important;
+}
+
+.headers {
+    font-family: 'Style Script', cursive;
+    text-align: center;
+    color: red;
+    font-size: 2em;
+}
+
+#orderForm {
+    background-color: rgb(245, 250, 245);
+}
+
+#ordernow {
+    font-family: 'WindSong', cursive;
+    color: green;
+    font-size: 2em;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(140, 233, 140);
+    text-align: center;
+    color: white;
+    font-size: 2em;
+}
